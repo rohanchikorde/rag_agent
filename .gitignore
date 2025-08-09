@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# ChromaDB
+chroma_db/
+
+# PDF temp files
+temp_pdfs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Others
+*.log
+*.sqlite3
